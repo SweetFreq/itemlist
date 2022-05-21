@@ -18,12 +18,6 @@
     "version": "3.8.1038"
   },
   {
-    "author": "SirMashedPotato",
-    "name": "ESCP - Industrial Factions Dummy",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -34,12 +28,6 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.3.7862.41411"
   },
   {
     "author": "SirMashedPotato",
@@ -69,7 +57,7 @@
     "author": "SirMashedPotato",
     "name": "ESCP - Sload",
     "steamId": "2785154644",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   {
     "author": "pphhyy,  Rick G. And  SirMashedPotato",
@@ -86,12 +74,6 @@
   {
     "author": "Rick, SirMashedPotato, PPHHYY and Kropolis",
     "name": "ESCP Expanded Backgrounds",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rick",
-    "name": "ESCP FCP SkyRim Iron Power Armor",
     "steamId": null,
     "version": null
   },
@@ -114,12 +96,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -135,7 +111,7 @@
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
-    "version": "1.0.0.0"
+    "version": "1.3.7862.41411"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -270,22 +246,10 @@
     "version": "1.1.1.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "TheWireLord",
-    "name": "Conduit Deconstruct",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -297,7 +261,7 @@
     "author": "SirMashedPotato",
     "name": "MorrowRim",
     "steamId": "2443089362",
-    "version": "1.6.106"
+    "version": "1.6.107"
   },
   {
     "author": "SirMashedPotato",
@@ -334,12 +298,6 @@
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
     "version": "1.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Skylights",
-    "steamId": "833899765",
-    "version": "1.0.0.0"
   },
   {
     "author": "jecrell and contributors",
@@ -486,18 +444,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.5"
-  },
-  {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.9"
-  },
-  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
@@ -570,28 +516,10 @@
     "version": null
   },
   {
-    "author": "Trinity",
-    "name": "RuntimeGC [1.3]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Ghost_Rolly",
-    "name": "Rim73 - Performance and Optimisations",
-    "steamId": "2573814850",
-    "version": "1.0.0.0"
   },
   {
     "author": "VinaLx",
@@ -684,12 +612,6 @@
     "version": null
   },
   {
-    "author": "Taranchuk",
-    "name": "Performance Optimizer",
-    "steamId": "2664723367",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "JisPichi",
     "name": "Perfect Pathfinding",
     "steamId": "2341486509",
@@ -706,12 +628,6 @@
     "name": "No Laggy Bed",
     "steamId": "2790250834",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Hob Took",
-    "name": "Mortar Accuracy",
-    "steamId": "1729446857",
-    "version": "1.3.8"
   },
   {
     "author": "SirMashedPotato",
@@ -735,7 +651,7 @@
     "author": "SirMashedPotato",
     "name": "MorrowRim - Ashlands Swamp",
     "steamId": "2230936898",
-    "version": "1.1.15"
+    "version": "1.1.16"
   },
   {
     "author": "SirMashedPotato",
@@ -898,5 +814,167 @@
     "name": "Vanilla Embrasures",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Mining Priority",
+    "steamId": "1345928533",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Dametri",
+    "name": "[D] Ignorance Is Bliss",
+    "steamId": "2554423472",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Maynard Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": "1331961995",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Giddy-Up! Add-on: Animal Saddles",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Skylights",
+    "steamId": "833899765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vagabond and  Barsimmon",
+    "name": "Fantasy Goblins Updated",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.7.2"
+  },
+  {
+    "author": "Kirby23590",
+    "name": "[KIR]Drop Pod Raids are Spacer Tech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien and Xen",
+    "name": "Argonians of Blackmarsh (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Rk",
+    "name": "Argonians of Blackmarsh Rebalancing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Spike Traps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.5"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.9"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ghost_Rolly",
+    "name": "Rim73 - Performance and Optimisations",
+    "steamId": "2573814850",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
