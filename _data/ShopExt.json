@@ -13211,7 +13211,7 @@
       "defName": "ESCP_MaormerRace",
       "enabled": true,
       "name": "Maormer",
-      "price": 5000
+      "price": 20000
     },
     {
       "data": {
@@ -13276,9 +13276,9 @@
       },
       "description": "An emotionless race of slug-like creatures. The Sload are despised by almost everyone due to their tendency towards necromancy. Though Sload soap is a highly used commodity, even given its origins.\n\nSload are rather intelligent, though physically they are extremely cumbersome, and somewhat hideous. Most clothes will not fit them, which is fine, as Sload don't care. And they are unable to wield certain weapons, such as bows and greatswords.\n\nSload make for fantastic researchers and scholars, however they are quite frankly awful at everything else.\n<i><color=#66E0E4FF>ESCP - Sload</color></i>",
       "defName": "ESCP_SloadRace",
-      "enabled": true,
+      "enabled": false,
       "name": "Sload",
-      "price": 5000
+      "price": 20000
     },
     {
       "data": {
@@ -13336,7 +13336,7 @@
       "defName": "ESCP_AyleidRace",
       "enabled": true,
       "name": "Ayleid",
-      "price": 5000
+      "price": 20000
     },
     {
       "data": {
@@ -13418,7 +13418,7 @@
       "defName": "ESCP_DunmerRace",
       "enabled": true,
       "name": "Dunmer",
-      "price": 100
+      "price": 50
     },
     {
       "data": {

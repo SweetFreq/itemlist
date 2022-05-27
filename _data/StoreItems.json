@@ -1604,7 +1604,7 @@
 	},
 	{
 		"abr": "pants",
-		"price": -10,
+		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_Pants"
 	},
@@ -3536,13 +3536,13 @@
 	},
 	{
 		"abr": "harp",
-		"price": -10,
+		"price": 408,
 		"category": "Recreation",
 		"defname": "Harp"
 	},
 	{
 		"abr": "harpsichord",
-		"price": -10,
+		"price": 692,
 		"category": "Recreation",
 		"defname": "Harpsichord"
 	},
@@ -9607,12 +9607,6 @@
 		"defname": "ESCP_Spriggan_EarthMother"
 	},
 	{
-		"abr": "sprigganmatron",
-		"price": 5000,
-		"category": "Animals",
-		"defname": "ESCP_Spriggan_Matron"
-	},
-	{
 		"abr": "spriggansap",
 		"price": 3,
 		"category": "Items",
@@ -10790,19 +10784,19 @@
 	},
 	{
 		"abr": "reinforcedditch",
-		"price": 23,
+		"price": -10,
 		"category": "",
 		"defname": "FT_ReinforcedDitch"
 	},
 	{
 		"abr": "castlewall",
-		"price": 71,
+		"price": -10,
 		"category": "",
 		"defname": "FT_CastleWall"
 	},
 	{
 		"abr": "castlewallembrasures",
-		"price": 55,
+		"price": -10,
 		"category": "",
 		"defname": "FT_CastleWallEmbrasures"
 	},
@@ -10838,7 +10832,7 @@
 	},
 	{
 		"abr": "ditch",
-		"price": 6,
+		"price": -10,
 		"category": "",
 		"defname": "FT_Ditch"
 	},
@@ -11108,7 +11102,7 @@
 	},
 	{
 		"abr": "arcanetome:technomancy",
-		"price": 5500,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfMagitech"
 	},
@@ -12464,31 +12458,31 @@
 	},
 	{
 		"abr": "technomancerspell:kineticshield",
-		"price": 833,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_TechnoShield"
 	},
 	{
 		"abr": "technomancerspell:mechanitereprogramming",
-		"price": 1417,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_MechaniteReprogramming"
 	},
 	{
 		"abr": "technomancerspell:orbitalstrike",
-		"price": 2833,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_OrbitalStrike"
 	},
 	{
 		"abr": "technomancerspell:overdrive",
-		"price": 800,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_Overdrive"
 	},
 	{
 		"abr": "technomancerspell:sabotage",
-		"price": 667,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_Sabotage"
 	},
@@ -12626,7 +12620,7 @@
 	},
 	{
 		"abr": "tornscript:technomancy",
-		"price": 2917,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "Torn_BookOfMagitech"
 	},
@@ -12858,6 +12852,396 @@
 		"category": "",
 		"defname": "Goblin_StoneWall"
 	},
+	{
+		"abr": "bardiche",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "MM_bardiche"
+	},
+	{
+		"abr": "bastardsword",
+		"price": 625,
+		"category": "Melee weapons",
+		"defname": "MM_bastardsword"
+	},
+	{
+		"abr": "battleaxe",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "MM_waraxe"
+	},
+	{
+		"abr": "billhook",
+		"price": 375,
+		"category": "Melee weapons",
+		"defname": "MM_billhook"
+	},
+	{
+		"abr": "bludgeon",
+		"price": 255,
+		"category": "Melee weapons",
+		"defname": "MM_bludgeon"
+	},
+	{
+		"abr": "compositelongbow",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "MMr_clongbow"
+	},
+	{
+		"abr": "craftingworkbench",
+		"price": 342,
+		"category": "Production",
+		"defname": "CraftingWorkBench"
+	},
+	{
+		"abr": "cutlass",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "MM_cutlass"
+	},
+	{
+		"abr": "dagger",
+		"price": 211,
+		"category": "Melee weapons",
+		"defname": "MM_dagger"
+	},
+	{
+		"abr": "doubleblade",
+		"price": 617,
+		"category": "Melee weapons",
+		"defname": "MM_doubleblade"
+	},
+	{
+		"abr": "doubleshotcrossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_double"
+	},
+	{
+		"abr": "earlymedievalmedicine",
+		"price": 27,
+		"category": "Medicine",
+		"defname": "MedicineEarlyMedievalMM"
+	},
+	{
+		"abr": "fencingsword",
+		"price": 683,
+		"category": "Melee weapons",
+		"defname": "MM_fencingsword"
+	},
+	{
+		"abr": "fireshotlongbow",
+		"price": 225,
+		"category": "Ranged weapons",
+		"defname": "MMr_firelongbow"
+	},
+	{
+		"abr": "flail",
+		"price": 250,
+		"category": "Melee weapons",
+		"defname": "MM_flail"
+	},
+	{
+		"abr": "flamberge",
+		"price": 692,
+		"category": "Melee weapons",
+		"defname": "MM_flamberge"
+	},
+	{
+		"abr": "flangedmace",
+		"price": 400,
+		"category": "Melee weapons",
+		"defname": "MM_flangedmace"
+	},
+	{
+		"abr": "forgedbolas",
+		"price": 151,
+		"category": "Ranged weapons",
+		"defname": "MMr_fbolas"
+	},
+	{
+		"abr": "glaive",
+		"price": 550,
+		"category": "Melee weapons",
+		"defname": "MM_glaive"
+	},
+	{
+		"abr": "greataxe",
+		"price": 725,
+		"category": "Melee weapons",
+		"defname": "MM_greataxe"
+	},
+	{
+		"abr": "greatsword",
+		"price": 675,
+		"category": "Melee weapons",
+		"defname": "MM_greatsword"
+	},
+	{
+		"abr": "halberd",
+		"price": 583,
+		"category": "Melee weapons",
+		"defname": "MM_halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 169,
+		"category": "Melee weapons",
+		"defname": "MM_SHammer"
+	},
+	{
+		"abr": "handcrossbow",
+		"price": 105,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_hand"
+	},
+	{
+		"abr": "harpoon",
+		"price": 199,
+		"category": "Ranged weapons",
+		"defname": "MMr_harpoon"
+	},
+	{
+		"abr": "hatchet",
+		"price": 279,
+		"category": "Melee weapons",
+		"defname": "MM_hatchet"
+	},
+	{
+		"abr": "heavycrossbow",
+		"price": 304,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_heavy"
+	},
+	{
+		"abr": "heavyflail",
+		"price": 658,
+		"category": "Melee weapons",
+		"defname": "MM_flail_heavy"
+	},
+	{
+		"abr": "heavymace",
+		"price": 650,
+		"category": "Melee weapons",
+		"defname": "MM_heavymace"
+	},
+	{
+		"abr": "heavymaul",
+		"price": 717,
+		"category": "Melee weapons",
+		"defname": "MM_maul"
+	},
+	{
+		"abr": "javelin",
+		"price": 282,
+		"category": "Ranged weapons",
+		"defname": "MMr_javelin"
+	},
+	{
+		"abr": "khopesh",
+		"price": 917,
+		"category": "Melee weapons",
+		"defname": "MM_khopesh"
+	},
+	{
+		"abr": "latemedievalmedicine",
+		"price": 42,
+		"category": "Medicine",
+		"defname": "MedicineLateMedievalMM"
+	},
+	{
+		"abr": "lightcrossbow",
+		"price": 161,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_light"
+	},
+	{
+		"abr": "meatcleaver",
+		"price": 125,
+		"category": "Melee weapons",
+		"defname": "MM_cleaver"
+	},
+	{
+		"abr": "militarypick",
+		"price": 266,
+		"category": "Melee weapons",
+		"defname": "MM_mpick"
+	},
+	{
+		"abr": "morningstar",
+		"price": 417,
+		"category": "Melee weapons",
+		"defname": "MM_morningstar"
+	},
+	{
+		"abr": "paresianmedicine",
+		"price": 83,
+		"category": "Medicine",
+		"defname": "MedicineParesianMM"
+	},
+	{
+		"abr": "pickaxe",
+		"price": 151,
+		"category": "Melee weapons",
+		"defname": "MM_pickaxe"
+	},
+	{
+		"abr": "pike",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "MM_pike"
+	},
+	{
+		"abr": "pitchfork",
+		"price": 145,
+		"category": "Melee weapons",
+		"defname": "MM_Pitchfork"
+	},
+	{
+		"abr": "polehammer",
+		"price": 475,
+		"category": "Melee weapons",
+		"defname": "MM_polehammer"
+	},
+	{
+		"abr": "primitivebolas",
+		"price": 129,
+		"category": "Ranged weapons",
+		"defname": "MMr_pbolas"
+	},
+	{
+		"abr": "rapier",
+		"price": 492,
+		"category": "Melee weapons",
+		"defname": "MM_rapier"
+	},
+	{
+		"abr": "repeatercrossbow",
+		"price": 342,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_repeater"
+	},
+	{
+		"abr": "sagaris",
+		"price": 950,
+		"category": "Melee weapons",
+		"defname": "MM_sagaris"
+	},
+	{
+		"abr": "scramasax",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "MM_scramasax"
+	},
+	{
+		"abr": "scythe",
+		"price": 149,
+		"category": "Melee weapons",
+		"defname": "MM_scythe"
+	},
+	{
+		"abr": "shortsword",
+		"price": 244,
+		"category": "Melee weapons",
+		"defname": "MM_shortsword"
+	},
+	{
+		"abr": "shovel",
+		"price": 148,
+		"category": "Melee weapons",
+		"defname": "MM_shovel"
+	},
+	{
+		"abr": "sickle",
+		"price": 123,
+		"category": "Melee weapons",
+		"defname": "MM_Sickle"
+	},
+	{
+		"abr": "siegecrossbow",
+		"price": 683,
+		"category": "Ranged weapons",
+		"defname": "MMr_crossbow_Siege"
+	},
+	{
+		"abr": "sling",
+		"price": 130,
+		"category": "Ranged weapons",
+		"defname": "MMr_sling"
+	},
+	{
+		"abr": "sprigganmatron",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "ESCP_Spriggan_Matron"
+	},
+	{
+		"abr": "throwingaxes",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "MMr_taxes"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 162,
+		"category": "Ranged weapons",
+		"defname": "MMr_tknives"
+	},
+	{
+		"abr": "throwingnet",
+		"price": 134,
+		"category": "Ranged weapons",
+		"defname": "MMr_tnet"
+	},
+	{
+		"abr": "trident",
+		"price": 542,
+		"category": "Melee weapons",
+		"defname": "MM_trident"
+	},
+	{
+		"abr": "warscythe",
+		"price": 608,
+		"category": "Melee weapons",
+		"defname": "MM_warscythe"
+	},
+	{
+		"abr": "warsickle",
+		"price": 1042,
+		"category": "Melee weapons",
+		"defname": "MM_warsickle"
+	},
+	{
+		"abr": "warspear",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MM_warspear"
+	},
+	{
+		"abr": "warhammer",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "MM_warhammer"
+	},
+	{
+		"abr": "woodcutter'saxe",
+		"price": 145,
+		"category": "Melee weapons",
+		"defname": "MM_Woodcutteraxe"
+	},
+	{
+		"abr": "woodenmallet",
+		"price": 162,
+		"category": "Melee weapons",
+		"defname": "MM_mallet"
+	},
+	{
+		"abr": "zweihander",
+		"price": 717,
+		"category": "Melee weapons",
+		"defname": "MM_zweihander"
+	},
 	],
-	"total": 2150
+	"total": 2214
 }

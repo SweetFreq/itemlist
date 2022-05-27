@@ -33,7 +33,7 @@
     "author": "SirMashedPotato",
     "name": "ESCP - Race Tools",
     "steamId": "2681814436",
-    "version": "1.0.20"
+    "version": "1.0.21"
   },
   {
     "author": "SirMashedPotato",
@@ -896,8 +896,8 @@
   {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Vagabond and  Barsimmon",
@@ -909,7 +909,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.2"
+    "version": "2.5.7.3"
   },
   {
     "author": "Kirby23590",
@@ -976,5 +976,41 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "IcyCheeseCake",
+    "name": "TasteOfVanilla-ish Arachne Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NinjaPirate_",
+    "name": "Medieval Tool Cabinet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kitsune and  TheSpookiestSkeleton",
+    "name": "Medieval Stove [Retexture]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
   }
 ]
