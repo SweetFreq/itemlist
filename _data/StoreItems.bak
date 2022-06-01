@@ -172,7 +172,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "berries",
@@ -406,7 +406,7 @@
       "abr": "chicken",
       "category": "Animals",
       "defname": "Chicken",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "chickenegg(fert.)",
@@ -514,7 +514,7 @@
       "abr": "cow",
       "category": "Animals",
       "defname": "Cow",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "cowboyhat",
@@ -616,7 +616,7 @@
       "abr": "duck",
       "category": "Animals",
       "defname": "Duck",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "duckegg(fert.)",
@@ -640,7 +640,7 @@
       "abr": "duster",
       "category": "Apparel",
       "defname": "Apparel_Duster",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "electricsmelter",
@@ -964,7 +964,7 @@
       "abr": "greatbow",
       "category": "Ranged weapons",
       "defname": "Bow_Great",
-      "price": -10
+      "price": 174
     },
     {
       "abr": "grizzlybear",
@@ -1234,7 +1234,7 @@
       "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "insectmeat",
@@ -1468,7 +1468,7 @@
       "abr": "milk",
       "category": "Animal products",
       "defname": "Milk",
-      "price": 1
+      "price": 3
     },
     {
       "abr": "minigun",
@@ -1612,7 +1612,7 @@
       "abr": "parka",
       "category": "Apparel",
       "defname": "Apparel_Parka",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "patchleather",
@@ -1690,7 +1690,7 @@
       "abr": "polarbear",
       "category": "Animals",
       "defname": "Bear_Polar",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "pork",
@@ -1840,7 +1840,7 @@
       "abr": "recurvebow",
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
-      "price": -10
+      "price": 110
     },
     {
       "abr": "redfox",
@@ -2290,7 +2290,7 @@
       "abr": "tribalwear",
       "category": "Apparel",
       "defname": "Apparel_TribalA",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "triplerocketlauncher",
@@ -2302,7 +2302,7 @@
       "abr": "t-shirt",
       "category": "Apparel",
       "defname": "Apparel_BasicShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "tubetelevision",
@@ -3538,13 +3538,13 @@
       "abr": "harp",
       "category": "Recreation",
       "defname": "Harp",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "harpsichord",
       "category": "Recreation",
       "defname": "Harpsichord",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "headwrap",
@@ -4096,7 +4096,7 @@
       "abr": "robe",
       "category": "Apparel",
       "defname": "Apparel_Robe",
-      "price": -10
+      "price": 297
     },
     {
       "abr": "rusticrug(broad)",
@@ -6088,7 +6088,7 @@
       "abr": "alit",
       "category": "Animals",
       "defname": "MorrowRim_Alit",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "alitegg(fert.)",
@@ -6196,7 +6196,7 @@
       "abr": "ashhopperjelly",
       "category": "Animal products",
       "defname": "MorrowRim_AshHopperJelly",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "ashimbuedspider",
@@ -6544,7 +6544,7 @@
       "abr": "bonelord",
       "category": "Animals",
       "defname": "MorrowRim_Bonelord",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "bonemold",
@@ -6802,7 +6802,7 @@
       "abr": "cliffracer",
       "category": "Animals",
       "defname": "MorrowRim_CliffRacer",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "cliffraceregg(fert.)",
@@ -7024,7 +7024,7 @@
       "abr": "daedroth",
       "category": "Animals",
       "defname": "MorrowRim_Daedroth",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "daedrothegg(fert.)",
@@ -7174,7 +7174,7 @@
       "abr": "durzog",
       "category": "Animals",
       "defname": "MorrowRim_Durzog",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "durzogegg(fert.)",
@@ -7210,7 +7210,7 @@
       "abr": "echatere",
       "category": "Animals",
       "defname": "ESCP_Echatere",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "echateremeat",
@@ -7858,7 +7858,7 @@
       "abr": "frosttroll",
       "category": "Animals",
       "defname": "MorrowRim_TrollFrost",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "frostwardstone",
@@ -7876,7 +7876,7 @@
       "abr": "fungalshalk",
       "category": "Animals",
       "defname": "MorrowRim_FungalShalk",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "fungalshalkegg(fert.)",
@@ -7888,7 +7888,7 @@
       "abr": "fungaltroll",
       "category": "Animals",
       "defname": "MorrowRim_TrollFungal",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "funnelcapflesh",
@@ -7900,7 +7900,7 @@
       "abr": "gehenoth",
       "category": "Animals",
       "defname": "MorrowRim_TrollGehenoth",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "gehenothhide",
@@ -7948,7 +7948,7 @@
       "abr": "grahl",
       "category": "Animals",
       "defname": "MorrowRim_TrollGrahl",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "grahlpelt",
@@ -8026,7 +8026,7 @@
       "abr": "guar",
       "category": "Animals",
       "defname": "MorrowRim_Guar",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "guaregg(fert.)",
@@ -8086,7 +8086,7 @@
       "abr": "hilltroll",
       "category": "Animals",
       "defname": "MorrowRim_TrollHill",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "hoarvor",
@@ -8242,7 +8242,7 @@
       "abr": "kagouti",
       "category": "Animals",
       "defname": "MorrowRim_Kagouti",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "kagoutiegg(fert.)",
@@ -8284,7 +8284,7 @@
       "abr": "kwamaeggsac",
       "category": "Special",
       "defname": "MorrowRim_KwamaEggSac",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "kwamaeggstandingdarklamp",
@@ -8314,13 +8314,13 @@
       "abr": "kwamawarrior",
       "category": "Animals",
       "defname": "MorrowRim_KwamaWarrior",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "kwamaworker",
       "category": "Animals",
       "defname": "MorrowRim_KwamaWorker",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "lavishbake",
@@ -8572,7 +8572,7 @@
       "abr": "netch",
       "category": "Animals",
       "defname": "MorrowRim_Netch",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "netchbettystandingdarklamp",
@@ -8728,7 +8728,7 @@
       "abr": "ogrim",
       "category": "Animals",
       "defname": "MorrowRim_OgrimSmol",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "ogrimegg(fert.)",
@@ -8776,7 +8776,7 @@
       "abr": "paralysisimbuedspider",
       "category": "Animals",
       "defname": "MorrowRim_ElementalSpiderParalysis",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "paralysissentinalcrystal",
@@ -8800,7 +8800,7 @@
       "abr": "parasolspriggan",
       "category": "Animals",
       "defname": "ESCP_Spriggan_Parasol",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "parasolspriggantreeseed",
@@ -9016,7 +9016,7 @@
       "abr": "pygmytroll",
       "category": "Animals",
       "defname": "MorrowRim_TrollPygmy",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "rapidaetherialenergystave",
@@ -9136,7 +9136,7 @@
       "abr": "retchingnetch",
       "category": "Animals",
       "defname": "MorrowRim_RetchingNetch",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "retchingnetchegg(fert.)",
@@ -9160,7 +9160,7 @@
       "abr": "rivertroll",
       "category": "Animals",
       "defname": "MorrowRim_TrollRiver",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "royalsloadrobe",
@@ -9214,7 +9214,7 @@
       "abr": "scamp",
       "category": "Animals",
       "defname": "MorrowRim_Scamp",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "scampstandingdarklamp",
@@ -9328,7 +9328,7 @@
       "abr": "scuttler",
       "category": "Animals",
       "defname": "MorrowRim_Scuttler",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "scuttleregg(fert.)",
@@ -9400,7 +9400,7 @@
       "abr": "siltstrider",
       "category": "Animals",
       "defname": "MorrowRim_SiltStrider",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "siltstriderchitin",
@@ -9598,13 +9598,13 @@
       "abr": "spriggan",
       "category": "Animals",
       "defname": "ESCP_Spriggan",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "sprigganearthmother",
       "category": "Animals",
       "defname": "ESCP_Spriggan_EarthMother",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "spriggansap",
@@ -9676,7 +9676,7 @@
       "abr": "swampjelly",
       "category": "Animals",
       "defname": "MorrowRim_SwampJelly",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "swampmoss",
@@ -9688,7 +9688,7 @@
       "abr": "swampstrider",
       "category": "Animals",
       "defname": "MorrowRim_SwampStrider",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "swampstrideregg(fert.)",
@@ -9700,7 +9700,7 @@
       "abr": "swamptroll",
       "category": "Animals",
       "defname": "MorrowRim_TrollSwamp",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "taproot",
@@ -9766,7 +9766,7 @@
       "abr": "thornyspriggan",
       "category": "Animals",
       "defname": "ESCP_Spriggan_Thorni",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "thornyspriggantreeseed",
@@ -9814,7 +9814,7 @@
       "abr": "tigerguar",
       "category": "Animals",
       "defname": "MorrowRim_TigerGuar",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "tigerguaregg(fert.)",
@@ -10168,7 +10168,7 @@
       "abr": "werewolf",
       "category": "Animal",
       "defname": "MorrowRim_Werewolf",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "werewolfblood",
@@ -10384,7 +10384,7 @@
       "abr": "fenrir",
       "category": "Animals",
       "defname": "VFEV_Fenrir",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "fenrirmeat",
@@ -10450,7 +10450,7 @@
       "abr": "heavycrossbow",
       "category": "Ranged weapons",
       "defname": "VFEM_Bow_HeavyCrossbow",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "heavycryptoaxe",
@@ -10552,7 +10552,7 @@
       "abr": "lothurr",
       "category": "Animals",
       "defname": "VFEV_Lothurr",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "lothurrantler",
@@ -10576,7 +10576,7 @@
       "abr": "mead",
       "category": "Drugs",
       "defname": "VFEV_Mead",
-      "price": 25
+      "price": 10
     },
     {
       "abr": "meadfermentingbarrel",
@@ -10600,7 +10600,7 @@
       "abr": "njorun",
       "category": "Animals",
       "defname": "VFEV_Njorun",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "njorunmeat",
@@ -10726,7 +10726,7 @@
       "abr": "wolfhound",
       "category": "Animals",
       "defname": "VFEV_Wolfhound",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "wolfhoundmeat",
@@ -10738,7 +10738,7 @@
       "abr": "woolycow",
       "category": "Animals",
       "defname": "VFEV_WoolyCow",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "grownwall",
@@ -11266,7 +11266,7 @@
       "abr": "direwolf",
       "category": "Animals",
       "defname": "TM_Dire_WolfR",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "divinetome:paladin",
@@ -11536,7 +11536,7 @@
       "abr": "fleshgolem",
       "category": "Animal",
       "defname": "TM_FleshGolem",
-      "price": 4500
+      "price": -10
     },
     {
       "abr": "gemofarcaneinsight",
@@ -11800,7 +11800,7 @@
       "abr": "granitegolem",
       "category": "Animal",
       "defname": "TM_GraniteGolem",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "helmofthevaliant",
@@ -11812,7 +11812,7 @@
       "abr": "hollowgolem",
       "category": "Animal",
       "defname": "TM_HollowGolem",
-      "price": 9167
+      "price": -10
     },
     {
       "abr": "hollowgolemmeat",
@@ -11866,7 +11866,7 @@
       "abr": "limestonegolem",
       "category": "Animal",
       "defname": "TM_LimestoneGolem",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "logstool",
@@ -12034,7 +12034,7 @@
       "abr": "maharalgolem",
       "category": "Animal",
       "defname": "TM_MaharalGolem",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "majorarcanegemofacceleration",
@@ -12100,7 +12100,7 @@
       "abr": "marblegolem",
       "category": "Animal",
       "defname": "TM_MarbleGolem",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mashedpomana",
@@ -12118,7 +12118,7 @@
       "abr": "mecha-golem",
       "category": "Animal",
       "defname": "TM_MechaGolem",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "minorarcanegemofacceleration",
@@ -12304,7 +12304,7 @@
       "abr": "sandstonegolem",
       "category": "Animal",
       "defname": "TM_SandstoneGolem",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "scrollofspiritbinding",
@@ -12352,7 +12352,7 @@
       "abr": "slategolem",
       "category": "Animal",
       "defname": "TM_SlateGolem",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "spikedbarricade",
@@ -12418,7 +12418,7 @@
       "abr": "stonegolem",
       "category": "Animal",
       "defname": "TM_StoneGolem",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "stonespiketrap",
@@ -13174,7 +13174,7 @@
       "abr": "sprigganmatron",
       "category": "Animals",
       "defname": "ESCP_Spriggan_Matron",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "throwingaxes",
@@ -13241,6 +13241,36 @@
       "category": "Melee weapons",
       "defname": "MM_zweihander",
       "price": 717
+    },
+    {
+      "abr": "werewolflord",
+      "category": "Animal",
+      "defname": "MorrowRim_WerewolfLord",
+      "price": 833
+    },
+    {
+      "abr": "werewolflordtotem",
+      "category": "Artifacts",
+      "defname": "MorrowRim_TotemWerewolfLord",
+      "price": 833
+    },
+    {
+      "abr": "werewolflordtrophy",
+      "category": "Art",
+      "defname": "MorrowRim_WerewolfLordTrophy",
+      "price": 983
+    },
+    {
+      "abr": "thrassianrefreshmentelixir",
+      "category": "Artifacts",
+      "defname": "ESCP_SloadThrassianElixir_ThrallRefresh",
+      "price": 833
+    },
+    {
+      "abr": "winter'sreign",
+      "category": "Magic foci",
+      "defname": "TM_WinterStaff",
+      "price": 7500
     },
     {
       "abr": "guestbed",
@@ -13327,5 +13357,5 @@
       "price": 350
     }
   ],
-  "total": 2221
+  "total": 2226
 }
