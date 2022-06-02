@@ -178,7 +178,7 @@
       "abr": "berries",
       "category": "Vegetarian",
       "defname": "RawBerries",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "billiardstable",
@@ -634,7 +634,7 @@
       "abr": "duckmeat",
       "category": "Meat",
       "defname": "Meat_Duck",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "duster",
@@ -1120,7 +1120,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "husky",
@@ -1948,7 +1948,7 @@
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "simpleresearchbench",
@@ -2680,7 +2680,7 @@
       "abr": "gourmetcocktail",
       "category": "Meals",
       "defname": "VBE_GourmetCocktail",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "guppy",
@@ -2722,7 +2722,7 @@
       "abr": "juice",
       "category": "Meals",
       "defname": "VBE_Juice",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "koi",
@@ -6256,7 +6256,7 @@
       "abr": "apples",
       "category": "Raw fruits",
       "defname": "VCE_RawApple",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "arcademachine",
@@ -6406,13 +6406,13 @@
       "abr": "bananas",
       "category": "Raw fruits",
       "defname": "VCE_RawBanana",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bananasyuccas",
       "category": "Vegetarian",
       "defname": "FCP_RawBananaYucca",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "baseblueprint",
@@ -6436,19 +6436,19 @@
       "abr": "bearberries",
       "category": "Raw fruits",
       "defname": "VCE_Bearberry",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "beef",
       "category": "Meat",
       "defname": "Meat_FCP_OFA_Brahmin",
-      "price": 3
+      "price": 20
     },
     {
       "abr": "beets",
       "category": "Vegetarian",
       "defname": "VCE_RawBeets",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bench",
@@ -6472,7 +6472,7 @@
       "abr": "blamcomacandcheese",
       "category": "Meals",
       "defname": "FCP_Blamco",
-      "price": 50
+      "price": 200
     },
     {
       "abr": "blastermasterarmor",
@@ -6598,7 +6598,7 @@
       "abr": "buffalogourds",
       "category": "Vegetarian",
       "defname": "FCP_RawBuffaloGourds",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bulldog",
@@ -6616,7 +6616,7 @@
       "abr": "cabbages",
       "category": "Vegetarian",
       "defname": "VCE_RawCabbage",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "caesarapparel",
@@ -6652,7 +6652,7 @@
       "abr": "cherries",
       "category": "Raw fruits",
       "defname": "VCE_RawCherry",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "childrenofatomconfessorrobes",
@@ -6742,7 +6742,7 @@
       "abr": "cram",
       "category": "Meals",
       "defname": "FCP_Cram",
-      "price": 47
+      "price": 200
     },
     {
       "abr": "crowbar",
@@ -6820,7 +6820,7 @@
       "abr": "dandyboyapples",
       "category": "Meals",
       "defname": "FCP_Dandy_Boy_Apples",
-      "price": 50
+      "price": 200
     },
     {
       "abr": "darklampendtable",
@@ -6910,7 +6910,7 @@
       "abr": "eggplants",
       "category": "Vegetarian",
       "defname": "VCE_RawEggplant",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "elderpowerarmor",
@@ -7066,7 +7066,7 @@
       "abr": "fancyladssnackcakes",
       "category": "Meals",
       "defname": "FCP_Facny_Lads_Snack_Cakes",
-      "price": 50
+      "price": 200
     },
     {
       "abr": "fatman",
@@ -7240,7 +7240,7 @@
       "abr": "gumdrops",
       "category": "Meals",
       "defname": "FCP_Gum_Drops",
-      "price": 58
+      "price": 200
     },
     {
       "abr": "hhtoolsnailgun",
@@ -7276,7 +7276,7 @@
       "abr": "honeymesquite",
       "category": "Raw fruits",
       "defname": "FCP_RawHoneyMesquite",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "huntingrevolver",
@@ -7324,7 +7324,7 @@
       "abr": "instamash",
       "category": "Meals",
       "defname": "FCP_Insta_Mash",
-      "price": 50
+      "price": 200
     },
     {
       "abr": "interiorlamp",
@@ -7546,7 +7546,7 @@
       "abr": "lemons",
       "category": "Raw fruits",
       "defname": "VCE_RawLemon",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "leveractionshotgun",
@@ -7636,7 +7636,7 @@
       "abr": "maize",
       "category": "Vegetarian",
       "defname": "FCP_RawMaize",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "makeshiftamr",
@@ -7774,7 +7774,7 @@
       "abr": "mre",
       "category": "Meals",
       "defname": "FCP_MRE",
-      "price": 50
+      "price": 500
     },
     {
       "abr": "multiplasrifle",
@@ -7786,7 +7786,7 @@
       "abr": "mutfruits",
       "category": "Raw fruits",
       "defname": "FCP_RawMutfruit",
-      "price": 2
+      "price": 10
     },
     {
       "abr": "mysteriousmagnum",
@@ -8140,7 +8140,7 @@
       "abr": "onions",
       "category": "Vegetarian",
       "defname": "VCE_RawOnion",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "operatingtable",
@@ -8152,7 +8152,7 @@
       "abr": "oranges",
       "category": "Raw fruits",
       "defname": "VCE_RawOrange",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "outdoorlamp",
@@ -8200,25 +8200,25 @@
       "abr": "peaches",
       "category": "Raw fruits",
       "defname": "VCE_RawPeach",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "pears",
       "category": "Raw fruits",
       "defname": "VCE_RawPear",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "peas",
       "category": "Vegetarian",
       "defname": "VCE_RawPeas",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "peppers",
       "category": "Vegetarian",
       "defname": "VCE_RawPepper",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "pewpew",
@@ -8230,7 +8230,7 @@
       "abr": "pileofscrap",
       "category": "Production",
       "defname": "scrapyard",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "pillar",
@@ -8308,7 +8308,7 @@
       "abr": "plums",
       "category": "Raw fruits",
       "defname": "VCE_RawPlum",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "policerevolver",
@@ -8326,13 +8326,13 @@
       "abr": "porknbeans",
       "category": "Meals",
       "defname": "FCP_Pork_N_Beans",
-      "price": 50
+      "price": 200
     },
     {
       "abr": "potatocrisps",
       "category": "Meals",
       "defname": "FCP_Potato_Crisps",
-      "price": 33
+      "price": 200
     },
     {
       "abr": "pottery",
@@ -8368,7 +8368,7 @@
       "abr": "pricklypears",
       "category": "Raw fruits",
       "defname": "VCE_RawPricklyPear",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "propagandabillboard",
@@ -8404,7 +8404,7 @@
       "abr": "pumpkins",
       "category": "Vegetarian",
       "defname": "VCE_RawPumpkin",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "punchingbag",
@@ -8542,7 +8542,7 @@
       "abr": "razorgrains",
       "category": "Vegetarian",
       "defname": "FCP_RawRazorgrain",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "rechargerpistol",
@@ -8752,7 +8752,7 @@
       "abr": "salisburysteak",
       "category": "Meals",
       "defname": "FCP_Salisbury_Steak",
-      "price": 58
+      "price": 200
     },
     {
       "abr": "sandstonechunk",
@@ -8980,7 +8980,7 @@
       "abr": "specialagentmeat",
       "category": "Meat",
       "defname": "Meat_DRK_SpecialAgent",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "sprinkler",
@@ -9100,7 +9100,7 @@
       "abr": "sugarbombs",
       "category": "Meals",
       "defname": "FCP_Sugar_Bombs",
-      "price": 47
+      "price": 200
     },
     {
       "abr": "supersledge",
@@ -9202,7 +9202,7 @@
       "abr": "tatos",
       "category": "Vegetarian",
       "defname": "FCP_RawTato",
-      "price": 2
+      "price": 10
     },
     {
       "abr": "techprint(magneticfieldsmastery)",
@@ -9256,7 +9256,7 @@
       "abr": "tomatoes",
       "category": "Vegetarian",
       "defname": "VCE_RawTomatoes",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "trailcarbine",
@@ -9652,13 +9652,13 @@
       "abr": "vault-teclavishmeal",
       "category": "Meals",
       "defname": "VTMealLavish",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "vault-tecmeal",
       "category": "Meals",
       "defname": "VTNutrientPaste",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "vault-tecmedicine",
@@ -9700,7 +9700,7 @@
       "abr": "vault-tecsurvivalmeal",
       "category": "Meals",
       "defname": "Vtsurvival",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "vigilanthelmet",
@@ -9832,7 +9832,7 @@
       "abr": "wastelandmeal",
       "category": "Meals",
       "defname": "WasteMeal",
-      "price": 25
+      "price": 100
     },
     {
       "abr": "wattz1000laserpistol",
@@ -9940,7 +9940,7 @@
       "abr": "yumyumdeviledeggs",
       "category": "Meals",
       "defname": "FCP_Yum_Yum_Deviled_Eggs",
-      "price": 33
+      "price": 200
     },
     {
       "abr": "zelotmarinearmor",
