@@ -1198,7 +1198,7 @@
       "abr": "largevanometricpowercell",
       "category": "Special",
       "defname": "VFE_LargeVanometricPowerCell",
-      "price": -10
+      "price": 14000
     },
     {
       "abr": "lavishmeal",
@@ -1888,7 +1888,7 @@
       "abr": "smokeleafleaves",
       "category": "Plant matter",
       "defname": "SmokeleafLeaves",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "smokepoppack",
@@ -2140,7 +2140,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 8000
     },
     {
       "abr": "venison",
@@ -4804,7 +4804,7 @@
       "abr": "autobong",
       "category": "Misc",
       "defname": "Autobong",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "advancedwindturbine",
@@ -5998,7 +5998,7 @@
       "abr": "archotechsculpture",
       "category": "Art",
       "defname": "VFE_ArchotechSculpture",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "arclighthelmet",
@@ -6232,7 +6232,7 @@
       "abr": "bozar",
       "category": "Ranged weapons",
       "defname": "DRKGun_Bozar",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "brokendresser",
@@ -8338,19 +8338,19 @@
       "abr": "shantywalls",
       "category": "Furniture",
       "defname": "WasteWalls",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "shantywalls",
       "category": "Furniture",
       "defname": "wastebawalls",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "shantywalls",
       "category": "Furniture",
       "defname": "wastebxawalls",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "shelf(1x1)",
@@ -8860,7 +8860,7 @@
       "abr": "vaultblueluxurywalls",
       "category": "Furniture",
       "defname": "VaultLuxWallsBlue",
-      "price": 19
+      "price": -10
     },
     {
       "abr": "vaultblueluxurywindows",
@@ -8896,7 +8896,7 @@
       "abr": "vaultgreenluxurywalls",
       "category": "Furniture",
       "defname": "VaultLuxWallsGreen",
-      "price": 19
+      "price": -10
     },
     {
       "abr": "vaultgreenluxurywindows",
@@ -8944,7 +8944,7 @@
       "abr": "vaultmaintenancewalls",
       "category": "Furniture",
       "defname": "Vaultmainten",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "vaultmat",
@@ -9004,7 +9004,7 @@
       "abr": "vaultredluxurywalls",
       "category": "Furniture",
       "defname": "VaultLuxWalls",
-      "price": 19
+      "price": -10
     },
     {
       "abr": "vaultredluxurywindows",
@@ -9052,7 +9052,7 @@
       "abr": "vaultsilverluxurywalls",
       "category": "Furniture",
       "defname": "VaultLuxWallsSilver",
-      "price": 19
+      "price": -10
     },
     {
       "abr": "vaultsilverluxurywindows",
@@ -9094,25 +9094,25 @@
       "abr": "vaultwalls(eastcoast)",
       "category": "Furniture",
       "defname": "VaultLuxWallsNormale",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "vaultwalls(vault76)",
       "category": "Furniture",
       "defname": "VaultLuxWallsNormalseventy",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "vaultwalls(westcoast)",
       "category": "Furniture",
       "defname": "VaultLuxWallsNormalw",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "vaultwallsoverseersoffice",
       "category": "Furniture",
       "defname": "VaultowNormalseventy",
-      "price": 19
+      "price": -10
     },
     {
       "abr": "vaultyellowcloth",
@@ -9322,7 +9322,7 @@
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "wardrobe",
@@ -9877,6 +9877,24 @@
       "price": 128
     },
     {
+      "abr": "mummified",
+      "category": "Art",
+      "defname": "AM_MummyMale",
+      "price": 197
+    },
+    {
+      "abr": "mummified",
+      "category": "Art",
+      "defname": "AM_MummyFemale",
+      "price": 197
+    },
+    {
+      "abr": "urn",
+      "category": "Furniture",
+      "defname": "AM_Urn",
+      "price": 70
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -10045,5 +10063,5 @@
       "price": 159
     }
   ],
-  "total": 1674
+  "total": 1677
 }
