@@ -232,7 +232,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 10000,
+		"price": 25000,
 		"karmatype": "Good"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -322,7 +322,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 4000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
