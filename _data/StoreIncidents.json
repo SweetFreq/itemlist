@@ -81,11 +81,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -161,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shippartpoison",
 		"price": 1900,
 		"karmatype": "Bad"
@@ -182,11 +172,6 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -451,5 +436,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 90
+	"total": 87
 }
