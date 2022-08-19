@@ -167,7 +167,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -203,16 +203,6 @@
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -436,5 +426,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 85
 }
