@@ -225,7 +225,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8391.36780"
+    "version": "1.0.8572.18461"
   },
   {
     "author": "miyamiya",
@@ -518,8 +518,8 @@
   {
     "author": "Jaxe",
     "name": "RimHUD",
-    "steamId": null,
-    "version": null
+    "steamId": "1508850027",
+    "version": "1.12.1.0"
   },
   {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
@@ -759,7 +759,7 @@
     "author": "Mlie",
     "name": "Some Things Float",
     "steamId": "2940072380",
-    "version": "1.4.34"
+    "version": "1.4.37"
   },
   {
     "author": "JangoD'soul",
@@ -871,7 +871,7 @@
   },
   {
     "author": "Rick",
-    "name": "FCP NCR Armor and Apparel Pack!",
+    "name": "FCP - NCR Armory",
     "steamId": null,
     "version": null
   },
@@ -883,7 +883,7 @@
   },
   {
     "author": "Rick, Icing and Taranchuk",
-    "name": "FCP Plasma Weapons Pack!",
+    "name": "FCP - Classic Plasma Weapons",
     "steamId": null,
     "version": null
   },
@@ -934,5 +934,35 @@
     "name": "ToolkitPolls",
     "steamId": "2435838514",
     "version": "1.1.1.7"
+  },
+  {
+    "author": "Ricky and Kurtus_Mob",
+    "name": "The Brotherhood Compendium \"Continued\"",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick and ASG_Alligator",
+    "name": "FCP - ASG_Alligators Fallout Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rick and Mashed",
+    "name": "FCP - Power Armor Lamps",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuglypump",
+    "name": "Fallout Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AKreedz",
+    "name": "Anti-Air Artillery [Unofficial Update]",
+    "steamId": null,
+    "version": null
   }
 ]

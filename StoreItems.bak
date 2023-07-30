@@ -448,7 +448,7 @@
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "cougar",
@@ -970,7 +970,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "husky",
@@ -1078,7 +1078,7 @@
       "abr": "insectmeat",
       "category": "Meat",
       "defname": "Meat_Megaspider",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "jacket",
@@ -1498,7 +1498,7 @@
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "powerclaw",
@@ -1510,19 +1510,19 @@
       "abr": "prostheticarm",
       "category": "Prosthetic",
       "defname": "SimpleProstheticArm",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "prostheticheart",
       "category": "Prosthetic",
       "defname": "SimpleProstheticHeart",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "prostheticleg",
       "category": "Prosthetic",
       "defname": "SimpleProstheticLeg",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "psychicanimalpulser",
@@ -1708,7 +1708,7 @@
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "simpleresearchbench",
@@ -1720,73 +1720,73 @@
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "slateblocks",
@@ -1828,7 +1828,7 @@
       "abr": "smokeleafleaves",
       "category": "Plant matter",
       "defname": "SmokeleafLeaves",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "smokepoppack",
@@ -2356,7 +2356,7 @@
       "abr": "gin",
       "category": "Drugs",
       "defname": "VBE_Gin",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "ginmush",
@@ -2500,7 +2500,7 @@
       "abr": "pumpkinspicecoffee",
       "category": "Drugs",
       "defname": "VBE_PumpkinCoffee",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "salmon",
@@ -2614,7 +2614,7 @@
       "abr": "vodka",
       "category": "Drugs",
       "defname": "VBE_Vodka",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "vodkadrum",
@@ -2794,7 +2794,7 @@
       "abr": "whiskey",
       "category": "Drugs",
       "defname": "VBE_Whiskey",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "whiskeycask",
@@ -6388,25 +6388,25 @@
       "abr": "advancedpowerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_Power_Armor_Advanced_Power_Armor",
-      "price": 4633
+      "price": -10
     },
     {
       "abr": "advancedpowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_Advanced_Power_Armor_Helmet",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "advancedpowerarmormkii",
       "category": "Armor",
       "defname": "FCP_Apparel_Power_Armor_Advanced_Power_Armor_mkII",
-      "price": 5333
+      "price": -10
     },
     {
       "abr": "advancedpowerarmormkiihelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_Advanced_Power_Armor_mkII_Helmet",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "aer14prototype",
@@ -6772,7 +6772,7 @@
       "abr": "browninghi-power",
       "category": "Ranged weapons",
       "defname": "RNGun_BrowningHiPower_Pistol",
-      "price": 232
+      "price": -10
     },
     {
       "abr": "brushgun",
@@ -7078,67 +7078,67 @@
       "abr": "enclavecombatarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_Enclave_Combat_Armor",
-      "price": 808
+      "price": -10
     },
     {
       "abr": "enclavecombatarmorwithpouches",
       "category": "Armor",
       "defname": "FCP_Apparel_Enclave_Combat_Armor_Pouches",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "enclavecombathelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_Enclave_Combat_Helmet",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "enclaveofficercap",
       "category": "Headgear",
       "defname": "FCP_Apparel_Enclave_Officer_Cap",
-      "price": 96
+      "price": -10
     },
     {
       "abr": "enclaveofficercoat",
       "category": "Apparel",
       "defname": "FCP_Apparel_Enclave_Officer_Coat",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "enclavescientistboots",
       "category": "Apparel",
       "defname": "FCP_Apparel_Enclave_Scientist_Boots",
-      "price": 62
+      "price": -10
     },
     {
       "abr": "enclavescientistgloves",
       "category": "Apparel",
       "defname": "FCP_Apparel_Enclave_Scientist_Gloves",
-      "price": 74
+      "price": -10
     },
     {
       "abr": "enclavescientisthelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_Enclave_Scientist_Helmet",
-      "price": 240
+      "price": -10
     },
     {
       "abr": "enclavescientistoutfit",
       "category": "Apparel",
       "defname": "FCP_Apparel_Enclave_Scientist_Outfit",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "enclavetroopercap",
       "category": "Headgear",
       "defname": "FCP_Apparel_Enclave_Trooper_Cap",
-      "price": 86
+      "price": -10
     },
     {
       "abr": "enclavetrooperuniform",
       "category": "Apparel",
       "defname": "FCP_Apparel_Enclave_Trooper_Uniform",
-      "price": 193
+      "price": -10
     },
     {
       "abr": "explosiveboltminigun",
@@ -7231,12 +7231,6 @@
       "price": -10
     },
     {
-      "abr": "fortifiedartillery",
-      "category": "Security",
-      "defname": "FT_VFES_Turret_Artillery",
-      "price": -10
-    },
-    {
       "abr": "fraggrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeFrag",
@@ -7312,13 +7306,13 @@
       "abr": "hellfirepowerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_Power_Armor_Hellfire_Power_Armor",
-      "price": 5800
+      "price": -10
     },
     {
       "abr": "hellfirepowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_Hellfire_Power_Armor_Helmet",
-      "price": 2450
+      "price": -10
     },
     {
       "abr": "henryrepeatingrifle",
@@ -7930,25 +7924,25 @@
       "abr": "ncrsalvagedpowerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_NCR_Salvaged_Power_Armor",
-      "price": 2775
+      "price": -10
     },
     {
       "abr": "ncrsalvagedpowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_NCR_Salvaged_Power_Armor_Helmet",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "ncrscorchedsierrapowerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_NCR_Scorched_Sierra_Power_Armor",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "ncrscorchedsierrapowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_NCR_Scorched_Sierra_Power_Armor_Helmet",
-      "price": 1542
+      "price": -10
     },
     {
       "abr": "ncrstoragetent",
@@ -8146,13 +8140,13 @@
       "abr": "ofat-51powerarmor",
       "category": "Armor",
       "defname": "FCP_OFA_Apparel_Power_Armor_US_T51_Power_Armor",
-      "price": 4633
+      "price": -10
     },
     {
       "abr": "ofat-51powerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_OFA_Apparel_US_T51_Power_Armor_Helmet",
-      "price": 1542
+      "price": -10
     },
     {
       "abr": "ofausarmycap",
@@ -8332,25 +8326,25 @@
       "abr": "powerhammerarbeiter",
       "category": "Melee weapons",
       "defname": "AOR_Melee_Hammer",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "powerspearthumper",
       "category": "Melee weapons",
       "defname": "AOR_Melee_Spear",
-      "price": 558
+      "price": -10
     },
     {
       "abr": "powersword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PowerSword",
-      "price": 2117
+      "price": -10
     },
     {
       "abr": "powersword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PowerSwordtwo",
-      "price": 2117
+      "price": -10
     },
     {
       "abr": "powerfocuschip",
@@ -8470,13 +8464,13 @@
       "abr": "raiderpowerarmor",
       "category": "Apparel",
       "defname": "FCP_Apparel_Raider_Power_Armor",
-      "price": 1525
+      "price": -10
     },
     {
       "abr": "raiderpowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_Raider_Power_Armor_Helmet",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "raiderpsychotichelmet",
@@ -8591,12 +8585,6 @@
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
       "price": 110
-    },
-    {
-      "abr": "redglare",
-      "category": "Ranged weapons",
-      "defname": "FCP_Gun_Red_Glare",
-      "price": -10
     },
     {
       "abr": "remingtonmodel1875",
@@ -9130,49 +9118,49 @@
       "abr": "t-51cairforcepowerarmor",
       "category": "Armor",
       "defname": "FCP_T51C_Armor",
-      "price": 4242
+      "price": -10
     },
     {
       "abr": "t-51cairforcepowerarmor(factory)",
       "category": "Armor",
       "defname": "FCP_T51C_Armor_Metal",
-      "price": 4242
+      "price": -10
     },
     {
       "abr": "t-51cairforcepowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_T51C_Helmet",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "t-51cairforcepowerarmorhelmet(factory)",
       "category": "Headgear",
       "defname": "FCP_T51C_Helmet_Metal",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "t-51cvaultpowerarmor",
       "category": "Armor",
       "defname": "FCP_T51C_Armor_VaultTec",
-      "price": 4242
+      "price": -10
     },
     {
       "abr": "t-51cvaultpowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_T51C_Helmet_VaultTec",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "t-51xenclaveairforcepowerarmor",
       "category": "Armor",
       "defname": "FCP_T51C_Armor_Enclave",
-      "price": 4958
+      "price": -10
     },
     {
       "abr": "t-51xenclaveairforcepowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_T51C_Helmet_Enclave",
-      "price": 2533
+      "price": -10
     },
     {
       "abr": "table(2x2)",
@@ -9385,12 +9373,6 @@
       "price": 425
     },
     {
-      "abr": "usarmyengineersjumpsuit",
-      "category": "Apparel",
-      "defname": "FCP_US_Army_Engineer_Jumpsuit",
-      "price": 2600
-    },
-    {
       "abr": "usarmyfatigues",
       "category": "Apparel",
       "defname": "FCP_US_Army_Fatigues",
@@ -9400,25 +9382,25 @@
       "abr": "usarmyt-51powerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_T51_US_Army_Power_Armor",
-      "price": 5042
+      "price": -10
     },
     {
       "abr": "usarmyt-51powerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_T51_US_Army_Power_Armor_Helmet",
-      "price": 1733
+      "price": -10
     },
     {
       "abr": "usarmyt-60powerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_T60_US_Army_Power_Armor",
-      "price": 5075
+      "price": -10
     },
     {
       "abr": "usarmyt-60powerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_T60_US_Army_Power_Armor_Helmet",
-      "price": 2100
+      "price": -10
     },
     {
       "abr": "usarmywinterfatigues",
@@ -9430,25 +9412,25 @@
       "abr": "usarmywintert-51powerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_T51_US_Army_Winter_Power_Armor",
-      "price": 5042
+      "price": -10
     },
     {
       "abr": "usarmywintert-51powerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_T51_US_Army_Winter_Power_Armor_Helmet",
-      "price": 2175
+      "price": -10
     },
     {
       "abr": "usarmywintert-60powerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_T60_US_Army_Winter_Power_Armor",
-      "price": 5742
+      "price": -10
     },
     {
       "abr": "usarmywintert-60powerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_T60_US_Army_Winter_Power_Armor_Helmet",
-      "price": 1767
+      "price": -10
     },
     {
       "abr": "usarmywinterizedcombatarmor",
@@ -9461,18 +9443,6 @@
       "category": "Headgear",
       "defname": "FCP_Winterized_Combat_Helmet_USA",
       "price": 475
-    },
-    {
-      "abr": "usarmywinterizedmedicarmor",
-      "category": "Apparel",
-      "defname": "FCP_Winterized_Medic_Armor_USA",
-      "price": 1033
-    },
-    {
-      "abr": "usarmywinterizedmedichelmet",
-      "category": "Headgear",
-      "defname": "FCP_Winterized_Medic_Helmet_USA",
-      "price": 425
     },
     {
       "abr": "v.t.a.b",
@@ -10078,25 +10048,25 @@
       "abr": "x-02powerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_Power_Armor_X02_Power_Armor",
-      "price": 5442
+      "price": -10
     },
     {
       "abr": "x-02powerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_X-02_Power_Armor_Helmet",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "x-02teslapowerarmor",
       "category": "Armor",
       "defname": "FCP_Apparel_Power_Armor_X02_Tesla_Power_Armor",
-      "price": 5792
+      "price": -10
     },
     {
       "abr": "x-02teslapowerarmorhelmet",
       "category": "Headgear",
       "defname": "FCP_Apparel_X-02_Tesla_Power_Armor_Helmet",
-      "price": 1783
+      "price": -10
     },
     {
       "abr": "xenogerm",
@@ -10121,6 +10091,864 @@
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
       "price": -10
+    },
+    {
+      "abr": "checkerdoormat",
+      "category": "Furniture",
+      "defname": "LT_DoorMatCheckerLeather",
+      "price": 8
+    },
+    {
+      "abr": "largecheckerdoormat",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigCheckerLeather",
+      "price": 13
+    },
+    {
+      "abr": ".223carbine",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_223rifle",
+      "price": 1025
+    },
+    {
+      "abr": ".223pistol",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_223pistol",
+      "price": 1033
+    },
+    {
+      "abr": "advancedmultiplasrifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_AdvancedMultiplasRifle",
+      "price": 2175
+    },
+    {
+      "abr": "advancedpowerarmor",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelAPA",
+      "price": -10
+    },
+    {
+      "abr": "advancedpowerarmormk2",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelAPAMkII",
+      "price": -10
+    },
+    {
+      "abr": "advancedpowerhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelAPA_Helm",
+      "price": -10
+    },
+    {
+      "abr": "advancedpowerhelmetmk2",
+      "category": "Headgear",
+      "defname": "DRKApparelAPA_HelmMkII",
+      "price": -10
+    },
+    {
+      "abr": "advancedturboplasmarifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_M94t",
+      "price": 3500
+    },
+    {
+      "abr": "aer14prototype",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_AER14_Prototype",
+      "price": 1642
+    },
+    {
+      "abr": "ak-112",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_AK112AR",
+      "price": 517
+    },
+    {
+      "abr": "assaultplasmarifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_AssaultPlasmaRifle",
+      "price": 2175
+    },
+    {
+      "abr": "autocannon",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Autocannon",
+      "price": 2517
+    },
+    {
+      "abr": "avengerminigun",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Avenger",
+      "price": 3000
+    },
+    {
+      "abr": "baseblueprint",
+      "category": "Furniture",
+      "defname": "BoSbp1b",
+      "price": 41
+    },
+    {
+      "abr": "bozar",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Bozar",
+      "price": 1467
+    },
+    {
+      "abr": "brotherhoodbanner",
+      "category": "Furniture",
+      "defname": "BoSBanner",
+      "price": 215
+    },
+    {
+      "abr": "brotherhoodcape",
+      "category": "Brotherhood apparel",
+      "defname": "DRKBoScape",
+      "price": 106
+    },
+    {
+      "abr": "brotherhoodcombatarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelCombatArmorMkII",
+      "price": 1433
+    },
+    {
+      "abr": "brotherhoodcombathelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelCombatArmorHelmetMKII",
+      "price": 750
+    },
+    {
+      "abr": "brotherhoodmainframe",
+      "category": "Special",
+      "defname": "BoS_Mainframe",
+      "price": 6667
+    },
+    {
+      "abr": "brotherhoodsuspendedflag",
+      "category": "Furniture",
+      "defname": "BoSsusflag",
+      "price": 41
+    },
+    {
+      "abr": "brotherhooduniform",
+      "category": "Brotherhood apparel",
+      "defname": "DRKBoSuniform",
+      "price": 131
+    },
+    {
+      "abr": "brotherhoodwarbanner",
+      "category": "Melee weapons",
+      "defname": "DRKMelee_WarBanner",
+      "price": 143
+    },
+    {
+      "abr": "brotherhooodst-50powerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelBOSST50PowerArmor",
+      "price": -10
+    },
+    {
+      "abr": "browningm2",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_M2HMG",
+      "price": 1683
+    },
+    {
+      "abr": "chunkyboi",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_chunkyboi",
+      "price": 1675
+    },
+    {
+      "abr": "colt10mm",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_10mmColt",
+      "price": 263
+    },
+    {
+      "abr": "coltrangemaster.223",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Rangemaster",
+      "price": 350
+    },
+    {
+      "abr": "combatarmormki",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelCombatArmorMkI",
+      "price": 1075
+    },
+    {
+      "abr": "combathelmetmki",
+      "category": "Headgear",
+      "defname": "DRKApparelCombatArmorHelmetMKI",
+      "price": 650
+    },
+    {
+      "abr": "communicationarray",
+      "category": "Special",
+      "defname": "Enc_SatCom",
+      "price": 6667
+    },
+    {
+      "abr": "crudemetalarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelMetalArmor",
+      "price": 90
+    },
+    {
+      "abr": "cz57avenger",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_CZ57_Avenger",
+      "price": 16667
+    },
+    {
+      "abr": "deserteagle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_deagle",
+      "price": 273
+    },
+    {
+      "abr": "destroyershell",
+      "category": "Manufactured",
+      "defname": "ADA_DestroyerShell",
+      "price": 5017
+    },
+    {
+      "abr": "dks-501sniperrifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_DKS",
+      "price": 525
+    },
+    {
+      "abr": "elderpowerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelElderArmor",
+      "price": -10
+    },
+    {
+      "abr": "elderpowerhelmet",
+      "category": "Brotherhood headgear",
+      "defname": "DRKApparelElderHelmet",
+      "price": -10
+    },
+    {
+      "abr": "enclavebannera",
+      "category": "Furniture",
+      "defname": "encBanner",
+      "price": -10
+    },
+    {
+      "abr": "enclavebannerb",
+      "category": "Furniture",
+      "defname": "encBannerB",
+      "price": -10
+    },
+    {
+      "abr": "enclavecap",
+      "category": "Enclave headgear",
+      "defname": "DRKApparelEncCap",
+      "price": -10
+    },
+    {
+      "abr": "enclaveencrypteddatakey",
+      "category": "Enclave apparel",
+      "defname": "DRKEncKey",
+      "price": -10
+    },
+    {
+      "abr": "enclaveflakvest",
+      "category": "Enclave apparel",
+      "defname": "DRKApparel_EncFlakVest",
+      "price": -10
+    },
+    {
+      "abr": "enclaveofficercap",
+      "category": "Enclave headgear",
+      "defname": "DRKApparelEncCapOf",
+      "price": -10
+    },
+    {
+      "abr": "enclaveofficerduster",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelEncOfDuster",
+      "price": -10
+    },
+    {
+      "abr": "enclavepowerarmor",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelEncPA",
+      "price": -10
+    },
+    {
+      "abr": "enclavepowerhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelEncPA_Helm",
+      "price": -10
+    },
+    {
+      "abr": "enclaveteslaarmor",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelEncTesla",
+      "price": -10
+    },
+    {
+      "abr": "enclaveteslahelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelEncTeslaHelm",
+      "price": -10
+    },
+    {
+      "abr": "enclaveuniform",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelEncUniform",
+      "price": -10
+    },
+    {
+      "abr": "endbossplasmacannon",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_EndBossPlasmaCannon",
+      "price": 392
+    },
+    {
+      "abr": "esther",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Esther",
+      "price": 41667
+    },
+    {
+      "abr": "fatman",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Fatman",
+      "price": 8000
+    },
+    {
+      "abr": "fatman",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Fatman",
+      "price": 33333
+    },
+    {
+      "abr": "fido",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_FIDO",
+      "price": 25000
+    },
+    {
+      "abr": "filtrationcombathelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelEncFiltrationHelm",
+      "price": 808
+    },
+    {
+      "abr": "flambe450flamethrower",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Flambe",
+      "price": 917
+    },
+    {
+      "abr": "glock86plasmapistol",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Glockpistol",
+      "price": 2242
+    },
+    {
+      "abr": "hk10mmsmg",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_HKSMG",
+      "price": 425
+    },
+    {
+      "abr": "hkg11e",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_HKG11E",
+      "price": 858
+    },
+    {
+      "abr": "holyhandgrenade",
+      "category": "Grenades",
+      "defname": "DRKGun_HHG",
+      "price": 72
+    },
+    {
+      "abr": "k9000cyberdoggun",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_K9000_Cyberdog_Gun",
+      "price": 2292
+    },
+    {
+      "abr": "l30gatlinglaser",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_LaserGatling",
+      "price": 4000
+    },
+    {
+      "abr": "laserpistol",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Laser_Pistol",
+      "price": 1308
+    },
+    {
+      "abr": "laserrifle",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Laser_Rifle",
+      "price": 1433
+    },
+    {
+      "abr": "leatherarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelLeatherArmor",
+      "price": 251
+    },
+    {
+      "abr": "lightreconarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelReconArmor",
+      "price": 908
+    },
+    {
+      "abr": "lightreconhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelReconHelmet",
+      "price": 273
+    },
+    {
+      "abr": "m72gaussrifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_M72Gauss",
+      "price": 3625
+    },
+    {
+      "abr": "m72a2gaussrifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_M72GaussA",
+      "price": 5067
+    },
+    {
+      "abr": "mauser9mm",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_9mmMauser",
+      "price": 279
+    },
+    {
+      "abr": "mecgaussminigun",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_GaussMinigun",
+      "price": 14000
+    },
+    {
+      "abr": "mh-89plasmasmg",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Plasmasmg",
+      "price": 3375
+    },
+    {
+      "abr": "midwesternhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelMidwesternHelmet",
+      "price": 1900
+    },
+    {
+      "abr": "midwesternpowerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelMidwesternArmor",
+      "price": -10
+    },
+    {
+      "abr": "minigun",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Minigun",
+      "price": 1933
+    },
+    {
+      "abr": "p94turboplasmarifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_P94t",
+      "price": 1683
+    },
+    {
+      "abr": "pancorjackhammer",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Jackhammer",
+      "price": 900
+    },
+    {
+      "abr": "pewpew",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Pew_Pew",
+      "price": 1458
+    },
+    {
+      "abr": "plasmacannon",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_PlasmaCannon",
+      "price": 4850
+    },
+    {
+      "abr": "plasmacaster",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_PlasmaCaster",
+      "price": 1908
+    },
+    {
+      "abr": "plasmamachinegun",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_PlasmaMG",
+      "price": 7392
+    },
+    {
+      "abr": "polishedmetalarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelMetalArmorP",
+      "price": 492
+    },
+    {
+      "abr": "powerarmorblueprint",
+      "category": "Furniture",
+      "defname": "BoSbp2a",
+      "price": 41
+    },
+    {
+      "abr": "powerarmorstandinglamp",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(blue)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Blue",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(cyan)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Cyan",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(green)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Green",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(magenta)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Magenta",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(orange)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Orange",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(pink)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Pink",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(purple)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Purple",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(red)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Red",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(turquoise)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Turquoise",
+      "price": -10
+    },
+    {
+      "abr": "powerarmorstandinglamp(yellow)",
+      "category": "Furniture",
+      "defname": "FCP_Power_Armor_Lamp_Yellow",
+      "price": -10
+    },
+    {
+      "abr": "powerfist",
+      "category": "Melee weapons",
+      "defname": "DRKMelee_Powerfist",
+      "price": 1083
+    },
+    {
+      "abr": "ppk12gausspistol",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_PPK12Gauss",
+      "price": 2733
+    },
+    {
+      "abr": "propagandabillboard",
+      "category": "Furniture",
+      "defname": "PropagandaSign",
+      "price": 51
+    },
+    {
+      "abr": "propagandaposter",
+      "category": "Furniture",
+      "defname": "encposter1a",
+      "price": 41
+    },
+    {
+      "abr": "propagandaposter",
+      "category": "Furniture",
+      "defname": "encposter2a",
+      "price": 41
+    },
+    {
+      "abr": "protectronsunlamp",
+      "category": "Furniture",
+      "defname": "FCP_Protectron_Lamp_Sun",
+      "price": 129
+    },
+    {
+      "abr": "restrictedareasign",
+      "category": "Furniture",
+      "defname": "RestrictedSign",
+      "price": 51
+    },
+    {
+      "abr": "rockwellbigbazooka",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_BigBazooka",
+      "price": 6667
+    },
+    {
+      "abr": "scribehood",
+      "category": "Brotherhood headgear",
+      "defname": "DRKApparelScribeHood",
+      "price": 118
+    },
+    {
+      "abr": "scriberobe",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelScribeRobe",
+      "price": 392
+    },
+    {
+      "abr": "generalshatwinter",
+      "category": "Headgear",
+      "defname": "FCP_Generals_Hat_Winter",
+      "price": 173
+    },
+    {
+      "abr": "hydrant",
+      "category": "Misc",
+      "defname": "FT_FirefoamPopper",
+      "price": 300
+    },
+    {
+      "abr": "quadantiairgun",
+      "category": "Security",
+      "defname": "FT_TurretQuadAA",
+      "price": 5575
+    },
+    {
+      "abr": "semeleplasmarifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_SemelePlasmaRifle",
+      "price": 2442
+    },
+    {
+      "abr": "shouldermountedmachinegun",
+      "category": "Ranged weapons",
+      "defname": "FCP_ASG_Alligator_Gun_Shoulder_Mounted_Machine_Gun",
+      "price": 1933
+    },
+    {
+      "abr": "sigsauer14mm",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_14mmpistol",
+      "price": 567
+    },
+    {
+      "abr": "specialagentmeat",
+      "category": "Meat",
+      "defname": "Meat_DRK_SpecialAgent",
+      "price": 3
+    },
+    {
+      "abr": "st-432armor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelBOSST432Armor",
+      "price": 5883
+    },
+    {
+      "abr": "st-432helmet",
+      "category": "Headgear",
+      "defname": "DRKApparelST432Helmet",
+      "price": 1742
+    },
+    {
+      "abr": "st-50helmet",
+      "category": "Headgear",
+      "defname": "DRKApparelST50Helmet",
+      "price": 1742
+    },
+    {
+      "abr": "st-50powerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelST50PowerArmor",
+      "price": 5883
+    },
+    {
+      "abr": "starshipblueprint",
+      "category": "Furniture",
+      "defname": "BoSbp3s",
+      "price": 41
+    },
+    {
+      "abr": "supersledge",
+      "category": "Melee weapons",
+      "defname": "DRKMelee_SuperSledge",
+      "price": 2683
+    },
+    {
+      "abr": "t-51bhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelT51bHelmet",
+      "price": 1333
+    },
+    {
+      "abr": "t-51bpowerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelT51bPowerArmor",
+      "price": 4058
+    },
+    {
+      "abr": "t-51bpowerarmor(army)",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelArmyT51bPowerArmor",
+      "price": 3933
+    },
+    {
+      "abr": "t-60helmet",
+      "category": "Headgear",
+      "defname": "DRKApparelT60Helmet",
+      "price": 1742
+    },
+    {
+      "abr": "t-60powerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelT60PowerArmor",
+      "price": 6083
+    },
+    {
+      "abr": "techprint(magneticfieldsmastery)",
+      "category": "Techprints",
+      "defname": "Techprint_BoS_mastery",
+      "price": 6667
+    },
+    {
+      "abr": "tribalt-51bhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelTribalT51bHelmet",
+      "price": 1342
+    },
+    {
+      "abr": "usarmyhelmet",
+      "category": "Headgear",
+      "defname": "FCP_Army_Helmet",
+      "price": 383
+    },
+    {
+      "abr": "usarmywinterhelmet",
+      "category": "Headgear",
+      "defname": "FCP_Winter_Army_Helmet",
+      "price": 383
+    },
+    {
+      "abr": "usflagpole",
+      "category": "Furniture",
+      "defname": "usaflagpoleB",
+      "price": 120
+    },
+    {
+      "abr": "usasuspendedflag",
+      "category": "Furniture",
+      "defname": "BoSsusflagus",
+      "price": 41
+    },
+    {
+      "abr": "vigilanthelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelVigilantHelmet",
+      "price": 1742
+    },
+    {
+      "abr": "vigilantpowerarmor",
+      "category": "Brotherhood apparel",
+      "defname": "DRKApparelVigilantPowerArmor",
+      "price": 5883
+    },
+    {
+      "abr": "vindicatorminigun",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Vindicator",
+      "price": 2633
+    },
+    {
+      "abr": "wattz1000laserpistol",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Wattzpistol",
+      "price": 1183
+    },
+    {
+      "abr": "wattz1800lasercarbine",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Wattz1800c",
+      "price": 3000
+    },
+    {
+      "abr": "wattz2000laserrifle(ext.cap.)",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_Wattz2000lr",
+      "price": 3000
+    },
+    {
+      "abr": "winchestercitykiller",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_CityKiller",
+      "price": 783
+    },
+    {
+      "abr": "x01mk6powerarmor",
+      "category": "Enclave apparel",
+      "defname": "DRKApparelXT60a",
+      "price": 10083
+    },
+    {
+      "abr": "x01mk6powerhelmet",
+      "category": "Headgear",
+      "defname": "DRKApparelxt60_Helm",
+      "price": 3017
+    },
+    {
+      "abr": "ycs-186gaussprecisionrifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_YCS",
+      "price": 4467
+    },
+    {
+      "abr": "yk32pulsepistol",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_YK32PulsePistol",
+      "price": 1108
+    },
+    {
+      "abr": "yk42bpulserifle",
+      "category": "Ranged weapons",
+      "defname": "DRKGun_YK42PulseRifle",
+      "price": 2258
     },
     {
       "abr": "guestbed",
@@ -10339,5 +11167,5 @@
       "price": 742
     }
   ],
-  "total": 1723
+  "total": 1861
 }
